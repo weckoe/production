@@ -1,0 +1,8 @@
+```
+I love git!
+I follow the following git's rules:
+  I understand what I do.
+  I use a **console** instead of IDE and I'm responsible for each my action.
+  I set a **passphrase** to have an opportunity to check what I do before push f
+iles.
+```
